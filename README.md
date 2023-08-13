@@ -20,6 +20,8 @@ Here then new webpage will come and here 127.0.0.1 is the internal ip address of
 
 It can also be referred to as the localhost <br>
 
+The ip address will be followed by a colon and a port number <br>
+
 
 
 
