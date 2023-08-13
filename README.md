@@ -6,4 +6,7 @@
 
 Here click the extension icon <br>
 
+![j38](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/87e44c40-4fc3-437b-bf64-3f438d8fbc73)
+
+Then here we will write Live server and install the extension <br>
 
