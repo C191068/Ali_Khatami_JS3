@@ -10,3 +10,7 @@ Here click the extension icon <br>
 
 Then here we will write Live server and install the extension <br>
 
+![j39](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/3c8d5cd1-66ef-4f9f-9c55-4fbea185ef92)
+
+Then we will click here Go Live option <br>
+
