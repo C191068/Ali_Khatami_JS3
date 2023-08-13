@@ -24,6 +24,8 @@ The ip address will be followed by a colon and a port number <br>
 
 The benefit of live server extension is that browser will reload our changes every time we saved <br>
 
+We need not always go to browser window to click the refresh button <br>
+
 
 
 
