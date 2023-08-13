@@ -22,6 +22,10 @@ It can also be referred to as the localhost <br>
 
 The ip address will be followed by a colon and a port number <br>
 
+The benefit of live server extension is that browser will reload our changes every time we saved <br>
+
+
+
 
 
 
