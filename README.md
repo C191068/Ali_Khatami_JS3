@@ -14,3 +14,7 @@ Then here we will write Live server and install the extension <br>
 
 Then we will click here Go Live option <br>
 
+![j40](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/ec7d64b5-5506-46a3-938f-5531383240b7)
+
+Here then new webpage will come and here 127.0.0.1 is the internal ip address of the computer <br>
+
