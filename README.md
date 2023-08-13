@@ -18,3 +18,8 @@ Then we will click here Go Live option <br>
 
 Here then new webpage will come and here 127.0.0.1 is the internal ip address of the computer <br>
 
+It can also be referred to as the localhost <br>
+
+
+
+
