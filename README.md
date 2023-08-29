@@ -106,6 +106,17 @@ from the staring postion to the ending position <br>
 if the ending posutuion is not provided it will return all characters from <br>
 the staring position to the ending position <br>
 
+![j11](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/d25fb012-7b96-4387-89a2-ec8e432a8eb0)
+Code:
+```
+console.log(myVariable.toUpperCase());
+
+```
+
+the above makes  all charcters of the string to Uppercase and it does not require  a parameter <br>
+but requires a parantheses <br>
+
+
 
 
 
