@@ -117,6 +117,22 @@ the above makes  all charcters of the string to Uppercase and it does not requir
 but requires a parantheses <br>
 
 
+![j12](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/9a004dc9-a838-4c1d-9cc7-464242304227)
+
+Code:
+```
+console.log(myVariable.toLowerCase());
+
+```
+the above returns all character of the string to lowercase <br>
+
+
+
+
+
+
+
+
 
 
 
