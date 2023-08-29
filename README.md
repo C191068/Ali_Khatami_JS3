@@ -97,3 +97,19 @@ now if here we use ```iam``` it will return 5 <br>
 
 
 
+The slice method accepts staring and ending position parameter and returns character <br>
+from the staring postion to the ending position <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
