@@ -40,7 +40,8 @@ by usig the above code we gonna look at the length property <br>
 
 The length proprety will return the number of character in the string <br>
 
-![j3](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/49a6f9d4-8bd4-4e3d-a949-950dbba01779)
+![j3](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/5d168ae6-789e-4ba2-b8ba-3f6079cdc802)
+
 
 here we can see it returned ```7``` as output <br>
 
