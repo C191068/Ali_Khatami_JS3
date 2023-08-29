@@ -127,6 +127,16 @@ console.log(myVariable.toLowerCase());
 the above returns all character of the string to lowercase <br>
 
 
+![j13](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/57b44b48-9cf7-4890-84d0-de8a371962ca)
+
+Code:
+
+```
+console.log(myVariable.includes("aja"));
+
+```
+
+the above returns booolean if any character or any  group of character is not availabr it will return false <br>
 
 
 
