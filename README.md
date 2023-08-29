@@ -51,6 +51,8 @@ here we can see it returned ```7``` as output <br>
  Now we look at the string methods <br>
 
  
+The string methods use dot notataion <br>
+
 
 
 
