@@ -95,6 +95,7 @@ now if here we use ```iam``` it will return 5 <br>
 
 
 
+![j9](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/92130140-921c-490b-8ead-86fafe5bccba)
 
 
 The slice method accepts staring and ending position parameter and returns character <br>
