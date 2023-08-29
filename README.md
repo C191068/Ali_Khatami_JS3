@@ -154,6 +154,7 @@ here spilt method will split the string based onn the character we provide <br>
 if we give only empty quote it will give each character as a separate string in the resulting array <br>
 
 
+![j17](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/4b139207-0bc9-4f27-9fa4-05b91b25072f)
 
 
 If we change the string to a list of comma separated values an split wherever a comma occurs <br>
