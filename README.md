@@ -46,10 +46,11 @@ The length proprety will return the number of character in the string <br>
 here we can see it returned ```7``` as output <br>
 
 ![j4](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/7224e476-6e31-484a-a461-6cde22c939c4)
- here now we find the length property of a sentence <br>
+ here now we find the length property of a sentence 
+
+ Now we look at the string methods <br>
 
  
-
 
 
 
