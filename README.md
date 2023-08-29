@@ -68,6 +68,8 @@ console.log(myVariable.charAt(2));
 the character at method above returns the character of the particular posistion we provide <br>
 
 
+It is to note that position counts start at zero intesd of 1 <br>
+
 
 
 
