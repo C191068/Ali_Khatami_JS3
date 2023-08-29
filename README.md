@@ -156,6 +156,13 @@ if we give only empty quote it will give each character as a separate string in 
 
 
 
+If we change the string to a list of comma separated values an split wherever a comma occurs <br>
+
+each value is represented as a own string in the resulting array <br>
+
+
+
+
 
 
 
