@@ -54,6 +54,18 @@ here we can see it returned ```7``` as output <br>
 The string methods use dot notataion <br>
 
 
+![j5](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/ffe4b5c8-13a7-40bc-92d0-d76029ceb824)
+
+the code is given below :
+
+```
+const myVariable = "Khatami";
+
+console.log(myVariable.charAt(2));
+
+```
+
+the character at method above returns the character of the particular posistion we provide <br>
 
 
 
