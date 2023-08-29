@@ -86,6 +86,9 @@ the above returns the position of the first occurance within a string <br>
 here one ```i``` at 2nd position and another ```i``` at 5th position<br>
 so it gonna return the position of ```i``` at 2nd <br>
 
+![j8](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/d59e211c-113e-49a2-bef2-2340e984ffee)
+
+now if here we use ```iam``` it will return 5 <br>
 
 
 
