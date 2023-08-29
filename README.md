@@ -34,7 +34,9 @@ In the above string variable we use the keyword ```const``` <br>
 We are not using the keyword ```let``` because we are not gonna reassign the <br>
 value of this variable <br>
 
+![j2](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/78eeabb5-d07e-4eee-92a7-29010c1f1ffd)
 
+by usig the above code we gonna look at the length property <br>
 
 
 
