@@ -101,6 +101,10 @@ now if here we use ```iam``` it will return 5 <br>
 The slice method accepts staring and ending position parameter and returns character <br>
 from the staring postion to the ending position <br>
 
+![j10](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/80fcdd44-fd25-4d24-8170-a7c50442f2f4)
+
+if the ending posutuion is not provided it will return all characters from <br>
+the staring position to the ending position <br>
 
 
 
