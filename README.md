@@ -165,6 +165,9 @@ each value is represented as a own string in the resulting array <br>
 
 if we pass space inside the double quote it will give the above result of a sentence <br>
 
+![j51](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/c015e203-9d50-41c5-a575-cc40d44ba395)
+
+code challenge <br>
 
 
 
