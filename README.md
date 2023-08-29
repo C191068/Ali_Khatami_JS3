@@ -27,6 +27,28 @@ The benefit of live server extension is that browser will reload our changes eve
 We need not always go to browser window to click the refresh button <br>
 
 
+![j1](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/374335aa-1ec0-40d4-9473-9f6c6d85f997)
+
+In the above string variable we use the keyword ```const``` <br>
+
+We are not using the keyword ```let``` because we are not gonna reassign the <br>
+value of this variable <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
