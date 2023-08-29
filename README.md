@@ -38,6 +38,8 @@ value of this variable <br>
 
 by usig the above code we gonna look at the length property <br>
 
+The length proprety will return the number of character in the string <br>
+
 
 
 
