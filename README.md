@@ -161,7 +161,9 @@ If we change the string to a list of comma separated values an split wherever a 
 
 each value is represented as a own string in the resulting array <br>
 
+![j18](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/6f683012-c30f-4df9-9f7f-89e400e9503b)
 
+if we pass space inside the double quote it will give the above result of a sentence <br>
 
 
 
