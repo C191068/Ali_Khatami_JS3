@@ -139,6 +139,15 @@ console.log(myVariable.includes("aja"));
 the above returns booolean if any character or any  group of character is not availabr it will return false <br>
 
 
+![j14](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/5da9396d-a4f5-422a-a56d-1d0fb8698d1a)
+
+code:
+
+```
+console.log(myVariable.split("t"));
+
+```
+here spilt method will split the string based onn the character we provide <br>
 
 
 
