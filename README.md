@@ -149,6 +149,11 @@ console.log(myVariable.split("t"));
 ```
 here spilt method will split the string based onn the character we provide <br>
 
+![j16](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/1d63eddd-430b-4d45-873f-413ea08bb6cf)
+
+if we give only empty quote it will give each character as a separate string in the resulting array <br>
+
+
 
 
 
