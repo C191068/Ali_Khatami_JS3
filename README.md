@@ -71,6 +71,15 @@ the character at method above returns the character of the particular posistion 
 It is to note that position counts start at zero intesd of 1 <br>
 
 
+![j6](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/a1fc19a0-bc5f-4eec-ad2f-299fb7e034fb)
+
+code :
+```
+console.log(myVariable.indexOf("ami"));
+
+```
+
+the above returns the position of the first occurance within a string <br>
 
 
 
