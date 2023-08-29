@@ -82,6 +82,10 @@ console.log(myVariable.indexOf("ami"));
 the above returns the position of the first occurance within a string <br>
 
 
+![j7](https://github.com/C191068/Ali_Khatami_JS3/assets/89090776/89c03891-b66c-4b6f-96f4-1f430dd581be)
+here one ```i``` at 2nd position and another ```i``` at 5th position<br>
+so it gonna return the position of ```i``` at 2nd <br>
+
 
 
 
